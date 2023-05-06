@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApplicationAssignment1</string>
+    <string name="calculate">Calculate</string>
+    <string name="entar_value_c">Entar Value c</string>
+    <string name="entar_value_b">Entar Value b</string>
+    <string name="entar_value_a">Entar Value a</string>
+    <string name="formula_ax_2_bx_c">formula: aX^2+bx+c</string>
+    <string name="equations">Equations</string>
+    <string name="formula_ax_b">formula: ax+b</string>
+
+
+    <string-array name="TypeOFEq">
+        <item>linear equation</item>
+        <item>Quadratic equation</item>
+    </string-array>
+</resources>
